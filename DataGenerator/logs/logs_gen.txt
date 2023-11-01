@@ -1,0 +1,184 @@
+11:09:15,889 root ERROR Exception generate image 
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 51, in starmapstar
+    return list(itertools.starmap(args[0], args[1]))
+  File "D:\VietNamese-OCR-DataGenerator\DataGenerator\data_generator.py", line 158, in generate
+    new_text_width, new_text_height = distorted_img.size
+UnboundLocalError: local variable 'distorted_img' referenced before assignment
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\VietNamese-OCR-DataGenerator\DataGenerator\run.py", line 590, in main
+    p.starmap(
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 375, in starmap
+    return self._map_async(func, iterable, starmapstar, chunksize).get()
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 774, in get
+    raise self._value
+UnboundLocalError: local variable 'distorted_img' referenced before assignment
+15:19:03,103 root ERROR Exception generate image 
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 51, in starmapstar
+    return list(itertools.starmap(args[0], args[1]))
+  File "D:\VietNamese-OCR-DataGenerator\DataGenerator\data_generator.py", line 158, in generate
+    new_text_width, new_text_height = distorted_img.size
+UnboundLocalError: local variable 'distorted_img' referenced before assignment
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\VietNamese-OCR-DataGenerator\DataGenerator\run.py", line 590, in main
+    p.starmap(
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 375, in starmap
+    return self._map_async(func, iterable, starmapstar, chunksize).get()
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 774, in get
+    raise self._value
+UnboundLocalError: local variable 'distorted_img' referenced before assignment
+15:20:00,367 root ERROR Exception generate image 
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 51, in starmapstar
+    return list(itertools.starmap(args[0], args[1]))
+  File "D:\VietNamese-OCR-DataGenerator\DataGenerator\data_generator.py", line 158, in generate
+    new_text_width, new_text_height = distorted_img.size
+UnboundLocalError: local variable 'distorted_img' referenced before assignment
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\VietNamese-OCR-DataGenerator\DataGenerator\run.py", line 590, in main
+    p.starmap(
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 375, in starmap
+    return self._map_async(func, iterable, starmapstar, chunksize).get()
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 774, in get
+    raise self._value
+UnboundLocalError: local variable 'distorted_img' referenced before assignment
+15:23:27,594 root ERROR Exception generate image 
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 51, in starmapstar
+    return list(itertools.starmap(args[0], args[1]))
+  File "D:\VietNamese-OCR-DataGenerator\DataGenerator\data_generator.py", line 158, in generate
+    new_text_width, new_text_height = distorted_img.size
+UnboundLocalError: local variable 'distorted_img' referenced before assignment
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\VietNamese-OCR-DataGenerator\DataGenerator\run.py", line 590, in main
+    p.starmap(
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 375, in starmap
+    return self._map_async(func, iterable, starmapstar, chunksize).get()
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 774, in get
+    raise self._value
+UnboundLocalError: local variable 'distorted_img' referenced before assignment
+15:26:05,916 root ERROR Exception generate image 
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 51, in starmapstar
+    return list(itertools.starmap(args[0], args[1]))
+  File "D:\VietNamese-OCR-DataGenerator\DataGenerator\data_generator.py", line 158, in generate
+    new_text_width, new_text_height = distorted_img.size
+UnboundLocalError: local variable 'distorted_img' referenced before assignment
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\VietNamese-OCR-DataGenerator\DataGenerator\run.py", line 590, in main
+    p.starmap(
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 375, in starmap
+    return self._map_async(func, iterable, starmapstar, chunksize).get()
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 774, in get
+    raise self._value
+UnboundLocalError: local variable 'distorted_img' referenced before assignment
+15:27:33,682 root ERROR Exception generate image 
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 51, in starmapstar
+    return list(itertools.starmap(args[0], args[1]))
+  File "D:\VietNamese-OCR-DataGenerator\DataGenerator\data_generator.py", line 158, in generate
+    new_text_width, new_text_height = distorted_img.size
+UnboundLocalError: local variable 'distorted_img' referenced before assignment
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\VietNamese-OCR-DataGenerator\DataGenerator\run.py", line 590, in main
+    p.starmap(
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 375, in starmap
+    return self._map_async(func, iterable, starmapstar, chunksize).get()
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 774, in get
+    raise self._value
+UnboundLocalError: local variable 'distorted_img' referenced before assignment
+15:28:34,359 root ERROR Exception generate image 
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 51, in starmapstar
+    return list(itertools.starmap(args[0], args[1]))
+  File "D:\VietNamese-OCR-DataGenerator\DataGenerator\data_generator.py", line 158, in generate
+    new_text_width, new_text_height = distorted_img.size
+UnboundLocalError: local variable 'distorted_img' referenced before assignment
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\VietNamese-OCR-DataGenerator\DataGenerator\run.py", line 590, in main
+    p.starmap(
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 375, in starmap
+    return self._map_async(func, iterable, starmapstar, chunksize).get()
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 774, in get
+    raise self._value
+UnboundLocalError: local variable 'distorted_img' referenced before assignment
+15:30:14,495 root ERROR Exception generate image 
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 51, in starmapstar
+    return list(itertools.starmap(args[0], args[1]))
+  File "D:\VietNamese-OCR-DataGenerator\DataGenerator\data_generator.py", line 158, in generate
+    new_text_width, new_text_height = distorted_img.size
+UnboundLocalError: local variable 'distorted_img' referenced before assignment
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\VietNamese-OCR-DataGenerator\DataGenerator\run.py", line 590, in main
+    p.starmap(
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 375, in starmap
+    return self._map_async(func, iterable, starmapstar, chunksize).get()
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\multiprocessing\pool.py", line 774, in get
+    raise self._value
+UnboundLocalError: local variable 'distorted_img' referenced before assignment
