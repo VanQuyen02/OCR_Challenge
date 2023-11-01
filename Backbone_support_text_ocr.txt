@@ -1,0 +1,1 @@
+AssertionError: when model typs is rec, backbone only support ['MobileNetV1Enhance', 'MobileNetV3', 'ResNet', 'ResNetFPN', 'MTB', 'ResNet31', 'ResNet45', 'ResNet_ASTER', 'MicroNet', 'EfficientNetb3_PREN', 'SVTRNet', 'ViTSTR', 'ResNet32', 'ResNetRFL', 'DenseNet', 'ShallowCNN', 'PPLCNetV3', 'PPHGNet_small']
