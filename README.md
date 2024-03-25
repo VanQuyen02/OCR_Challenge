@@ -1,5 +1,3 @@
-# Kalapa Challenge 2023 - 1st Vietnamese Handwritten Text Recognition
-
 # Exploratory Data Analysis
 
 ---
